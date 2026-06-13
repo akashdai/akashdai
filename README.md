@@ -1,72 +1,117 @@
-# Hi, I'm Akash Das 👋
+<div align="center">
 
-### Data Analyst | Python | SQL | Power BI | Excel | Machine Learning
+# Hey, I'm Akash 👋
 
-I'm an aspiring Data Analyst passionate about transforming raw data into actionable insights. I leverage Python, SQL, Power BI, and Excel to analyze data, build dashboards, and solve business problems through data-driven decision making.
+### Data Analyst transitioning from Sales & Marketing — turning messy spreadsheets into dashboards people actually use
 
-My interests include Data Visualization, Business Intelligence, Time Series Forecasting, Machine Learning, and AI-powered applications. I enjoy building end-to-end projects that combine analytics, forecasting, and interactive dashboards.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-das-data-analyst)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here@example.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-success?style=for-the-badge)](https://linkedin.com/in/akash-das-data-analyst)
 
-## 🚀 Current Focus
+</div>
 
-* Advanced Data Analytics
-* Time Series Forecasting
-* Machine Learning
-* Business Intelligence & Dashboard Development
-* Generative AI Applications
+---
 
-## 💼 Featured Projects
+### 👨‍💻 About Me
 
-### 📈 AI Stock Analysis & Forecasting App
+I spent 12 months in a Sales & Marketing role at BPCL, where my actual job was making sense of sales numbers coming in from a dozen different outlets and field reps — half in spreadsheets, half in someone's head. That's where I learned that "data analysis" usually means cleaning up a mess first, then making it useful for someone who doesn't have time to dig through it themselves.
 
-Built an interactive Streamlit application for stock analysis, visualization, forecasting, and market trend analysis using machine learning and time series techniques.
+Since then I've been building projects that go further — SQL, Python, forecasting, dashboards — the toolkit I wish I'd had during that internship.
 
-### 📦 Supply Chain Analytics
+---
 
-Performed end-to-end supply chain analysis to identify operational bottlenecks, optimize processes, and generate actionable business insights through data visualization.
+### 🛠️ Tech Stack
 
-### 🍔 Swiggy Database Analysis (SQL)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Designed and queried a relational database to analyze customer orders, restaurant performance, delivery trends, and business metrics using advanced SQL techniques.
+---
 
-### 📊 Data Visualization Dashboards
+### 📌 Featured Projects
 
-Developed interactive Power BI and Python dashboards to communicate key business metrics and support data-driven decision making.
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Technical Skills
+**📈 [AI Stock Analysis App](#)**
 
-### Programming & Analytics
+Interactive Streamlit app pulling live stock data with technical indicators (RSI, MACD, Bollinger Bands) — screen any stock without opening a spreadsheet.
 
-* Python
-* SQL
-* Excel
-* Statistics
+`Python` `Streamlit` `Plotly`
 
-### Libraries & Frameworks
+</td>
+<td width="50%">
 
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
-* Scikit-Learn
-* Streamlit
+**📦 [Supply Chain Analysis](#)**
 
-### Data Visualization
+Cleaned a 50k-row supply chain dataset in Pandas and built a Power BI dashboard that flagged two operational bottleneck stages.
 
-* Power BI
-* Matplotlib
-* Plotly
+`Python` `Pandas` `Power BI`
 
-### Tools
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-* Git
-* GitHub
-* Jupyter Notebook
+**🍔 [Swiggy Database Analysis (SQL)](#)**
 
-## 📫 Connect With Me
+Built and queried a relational database modeled on food delivery data — 20+ queries on order trends, restaurant performance, and customer behavior.
 
-* LinkedIn: linkedin.com/in/akash-das-data-analyst
-* GitHub: github.com/akashdai
+`SQL` `PostgreSQL`
 
-## 🎯 Career Objective
+</td>
+<td width="50%">
 
-Seeking opportunities in Data Analytics where I can apply analytical thinking, data visualization, and machine learning skills to solve real-world business problems and create measurable impact.
+**📊 [Sales & Logistics Dashboards](#)**
+
+A set of Power BI dashboards (regional sales, coffee shop revenue, logistics KPIs) replacing three separate weekly report emails with one screen.
+
+`Power BI` `DAX` `Excel`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Currently Working On
+
+- Deepening DAX and data modeling in Power BI
+- Practicing advanced SQL — window functions, CTEs, query optimization
+- Looking for real (messy!) datasets to turn into dashboards — if you've got one, I'd love to take a look
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashdai&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdai&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashdai&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Let's Connect
+
+I'm open to **remote analyst roles** and **freelance dashboard/data-cleaning projects**. If you've got a project, a question, or just want to say hi — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-das-data-analyst)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here@example.com)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashdai&color=blueviolet&style=for-the-badge)
+
+</div>
