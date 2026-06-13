@@ -18,30 +18,30 @@ My interests include Data Visualization, Business Intelligence, Time Series Fore
 
 ### 📈 AI Stock Analysis & Forecasting App
 
-Built an interactive Streamlit application for stock analysis, visualization, and forecasting using machine learning and time series techniques.
+Built an interactive Streamlit application for stock analysis, visualization, forecasting, and market trend analysis using machine learning and time series techniques.
 
 ### 📦 Supply Chain Analytics
 
-Performed end-to-end supply chain analysis to identify operational bottlenecks and generate business insights through data visualization.
+Performed end-to-end supply chain analysis to identify operational bottlenecks, optimize processes, and generate actionable business insights through data visualization.
 
-### 🍽️ Yelp Business Analytics
+### 🍔 Swiggy Database Analysis (SQL)
 
-Analyzed customer reviews and business performance metrics to uncover trends and actionable recommendations.
+Designed and queried a relational database to analyze customer orders, restaurant performance, delivery trends, and business metrics using advanced SQL techniques.
 
 ### 📊 Data Visualization Dashboards
 
-Created interactive dashboards using Power BI and Python to communicate key business metrics effectively.
+Developed interactive Power BI and Python dashboards to communicate key business metrics and support data-driven decision making.
 
 ## 🛠️ Technical Skills
 
-**Programming & Analytics**
+### Programming & Analytics
 
 * Python
 * SQL
 * Excel
 * Statistics
 
-**Libraries & Frameworks**
+### Libraries & Frameworks
 
 * Pandas
 * NumPy
@@ -50,13 +50,13 @@ Created interactive dashboards using Power BI and Python to communicate key busi
 * Scikit-Learn
 * Streamlit
 
-**Data Visualization**
+### Data Visualization
 
 * Power BI
 * Matplotlib
 * Plotly
 
-**Tools**
+### Tools
 
 * Git
 * GitHub
@@ -67,8 +67,6 @@ Created interactive dashboards using Power BI and Python to communicate key busi
 * LinkedIn: linkedin.com/in/akash-das-data-analyst
 * GitHub: github.com/akashdai
 
-## 📊 GitHub Stats
+## 🎯 Career Objective
 
-![](https://github-readme-stats.vercel.app/api?username=akashdai\&show_icons=true\&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdai\&layout=compact\&theme=default)
+Seeking opportunities in Data Analytics where I can apply analytical thinking, data visualization, and machine learning skills to solve real-world business problems and create measurable impact.
